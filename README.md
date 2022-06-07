@@ -1,2 +1,2 @@
 # caesarcipher
-FreeCodeCamp certifitcation project
+FreeCodeCamp certification project
